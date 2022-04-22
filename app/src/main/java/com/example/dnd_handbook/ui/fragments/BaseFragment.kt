@@ -55,9 +55,6 @@ abstract class BaseFragment: Fragment(R.layout.list_fragment) {
     private fun setUpRecyclerView(categoryItemsList: CategoryModel) {
         recyclerView = view?.findViewById(R.id.recyclerview_layout)!!
         recyclerView.layoutManager = LinearLayoutManager(view?.context)
-        recyclerView.addItemDecoration(
-            DividerItemDecoration(view?.context, DividerItemDecoration.VERTICAL)
-        )
         val categoriesRecyclerView = CategoriesRecyclerView(categoryItemsList)
         recyclerView.adapter = categoriesRecyclerView
     }

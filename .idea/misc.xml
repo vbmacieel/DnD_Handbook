@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/font/primary_font.xml" value="0.2351851851851852" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_categories_recyclerview.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_category_fragment.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/item_options_listview.xml" value="0.26851851851851855" />
         <entry key="app/src/main/res/layout/item_options_recyclerview.xml" value="0.19375" />
