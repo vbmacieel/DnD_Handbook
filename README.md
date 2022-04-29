@@ -9,6 +9,7 @@ The technologies used in the project are:
 - MVVM
 - ViewBinding
 - Fragments
+- [D&D 5th API](https://www.dnd5eapi.co/)
 
 ### Features ✔️
 - [x] Show the monster's list;
